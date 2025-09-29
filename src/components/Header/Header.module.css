@@ -1,0 +1,13 @@
+.header {
+  background: #4a90e2;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  max-width: 500px;
+  margin: 0 auto;
+}
